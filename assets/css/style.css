@@ -701,7 +701,7 @@ button.accordion-button {
 }
 
 .industry-box-info .p-one {
-    padding: 3px 0px;
+    padding: 9px 0px;
 }
 
 .industry-box-info .p-two {
@@ -1867,12 +1867,13 @@ hr {
         padding: 11px 6px !important;
     }
 
-    .info-section {
-        padding-bottom: 5px;
+    .service-box-inner p {
+        font-size: 12px;
+        line-height: 15px;
     }
 
     .info-main .info-img img {
-        width: 82px;
+        width: 85px;
     }
 
     .info-main .info-box svg {
@@ -1887,20 +1888,16 @@ hr {
         margin-left: 8px;
     }
 
-    .info-main .info-box {
-        order: 2;
-    }
-
     .info-img {
-        width: 100%;
+        /* width: 100%; */
         text-align: center;
-        margin: 6px 0px;
+        /* margin: 6px 0px; */
     }
 
     .info-main .info-box a,
     .info-main .info-box p {
-        font-size: 13px;
-        line-height: 10px;
+        font-size: 11px;
+        line-height: 6px;
     }
 
     .footer-top h3 {
@@ -1909,15 +1906,15 @@ hr {
     }
 
     .footer-top li a {
-        font-size: 12px;
+        font-size: 11px;
     }
 
     .footer-top li {
-        line-height: 15px;
+        line-height: 13px;
     }
 
     .footer-list svg {
-        font-size: 10px;
+        font-size: 9px;
     }
 
     .footer-list:last-child {
@@ -1926,11 +1923,11 @@ hr {
     }
 
     hr {
-        bottom: -406px;
+        bottom: -387px;
     }
 
     .footer-p {
         margin-top: 33px !important;
-        font-size: 12px;
+        font-size: 11px;
     }
 }
